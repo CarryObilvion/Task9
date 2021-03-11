@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <bottom>
+      <GridPane prefHeight="30.0" prefWidth="600.0" BorderPane.alignment="CENTER">
+        <columnConstraints>
+            <ColumnConstraints hgrow="SOMETIMES" maxWidth="600.0" minWidth="10.0" prefWidth="243.0" />
+            <ColumnConstraints hgrow="SOMETIMES" maxWidth="600.0" minWidth="10.0" prefWidth="36.0" />
+          <ColumnConstraints hgrow="SOMETIMES" maxWidth="600.0" minWidth="10.0" prefWidth="55.0" />
+          <ColumnConstraints hgrow="SOMETIMES" maxWidth="440.0" minWidth="0.0" prefWidth="50.0" />
+            <ColumnConstraints hgrow="SOMETIMES" maxWidth="440.0" minWidth="10.0" prefWidth="216.0" />
+        </columnConstraints>
+        <rowConstraints>
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        </rowConstraints>
+         <children>
+            <Button fx:id="play" mnemonicParsing="false" onAction="#JnPlayuu" prefHeight="44.0" prefWidth="44.0" text="Play" GridPane.columnIndex="2" />
+            <Button mnemonicParsing="false" onAction="#JnBacks" text="&lt;" GridPane.columnIndex="1" />
+            <Button mnemonicParsing="false" onAction="#JnNexte" text="&gt;" GridPane.columnIndex="4" />
+            <ImageView fitHeight="150.0" fitWidth="200.0" pickOnBounds="true" preserveRatio="true" />
+            <Button mnemonicParsing="false" onAction="#JnStope" text="Stop" GridPane.columnIndex="3" />
+         </children>
+      </GridPane>
+   </bottom>
+   <center>
+      <ImageView fx:id="imageCurr" fitHeight="308.0" fitWidth="596.0" pickOnBounds="true" preserveRatio="true" BorderPane.alignment="CENTER" />
+   </center>
+   <right>
+      <VBox prefHeight="370.0" prefWidth="61.0" BorderPane.alignment="CENTER">
+         <children>
+            <Label text="Скорость анимации" textAlignment="RIGHT" wrapText="true" />
+            <Slider fx:id="lev" onMousePressed="#updw" orientation="VERTICAL" prefHeight="284.0" prefWidth="51.0" showTickLabels="true" showTickMarks="true" value="50" />
+            <TextField fx:id="l2" prefHeight="25.0" prefWidth="48.0" text="50" />
+         </children>
+      </VBox>
+   </right>
+</BorderPane>
