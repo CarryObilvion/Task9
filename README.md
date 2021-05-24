@@ -28,8 +28,9 @@ next - возвращает следующий элемент в структу�
 ![9 диаграмма](https://user-images.githubusercontent.com/80450495/119401317-048f5600-bce4-11eb-908b-3dd5e87c9f34.png)
 
  Скриншоты рабочего окна приложения:
-![91](https://user-images.githubusercontent.com/80450495/119029804-ca574900-b9b1-11eb-9c9d-31e37cf806f7.jpg)
-![92](https://user-images.githubusercontent.com/80450495/119029806-cc210c80-b9b1-11eb-8f7d-8b7eec4f0ff7.jpg)
-![93](https://user-images.githubusercontent.com/80450495/119029813-cdead000-b9b1-11eb-8ef6-78d9e7ab0ded.jpg)
+![9 11](https://user-images.githubusercontent.com/80450495/119401918-d6f6dc80-bce4-11eb-9929-b70b9fec59b6.jpg)
+![9 22](https://user-images.githubusercontent.com/80450495/119401923-d78f7300-bce4-11eb-9611-bd1678db3853.jpg)
+![9 33](https://user-images.githubusercontent.com/80450495/119401926-d8280980-bce4-11eb-9f02-a75ec3548f37.jpg)
+![9 44](https://user-images.githubusercontent.com/80450495/119401928-d8280980-bce4-11eb-9c67-a6d3231a174d.jpg)
 
  
