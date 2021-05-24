@@ -28,9 +28,10 @@ next - возвращает следующий элемент в структу�
 ![9 диаграмма](https://user-images.githubusercontent.com/80450495/119401317-048f5600-bce4-11eb-908b-3dd5e87c9f34.png)
 
  Скриншоты рабочего окна приложения:
-![9 11](https://user-images.githubusercontent.com/80450495/119401918-d6f6dc80-bce4-11eb-9929-b70b9fec59b6.jpg)
-![9 22](https://user-images.githubusercontent.com/80450495/119401923-d78f7300-bce4-11eb-9611-bd1678db3853.jpg)
-![9 33](https://user-images.githubusercontent.com/80450495/119401926-d8280980-bce4-11eb-9f02-a75ec3548f37.jpg)
-![9 44](https://user-images.githubusercontent.com/80450495/119401928-d8280980-bce4-11eb-9c67-a6d3231a174d.jpg)
 
- 
+![9 11](https://user-images.githubusercontent.com/80450495/119405005-479ff800-bce9-11eb-9825-520fdc9880f7.jpg)
+![9 22](https://user-images.githubusercontent.com/80450495/119405007-479ff800-bce9-11eb-9e75-e740a1956e9b.jpg)
+![9 33](https://user-images.githubusercontent.com/80450495/119405008-48388e80-bce9-11eb-939f-8284a8bae13f.jpg)
+![9 44](https://user-images.githubusercontent.com/80450495/119405010-48388e80-bce9-11eb-9392-f4b614143f65.jpg)
+![9 55](https://user-images.githubusercontent.com/80450495/119405040-55557d80-bce9-11eb-9b19-93a1166306ae.jpg)
+
